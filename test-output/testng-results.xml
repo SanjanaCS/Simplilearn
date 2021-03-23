@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5250" started-at="2021-02-23T06:20:17 UTC" finished-at="2021-02-23T06:20:22 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5250" started-at="2021-02-23T06:20:17 UTC" finished-at="2021-02-23T06:20:22 UTC">
+      <class name="test.ExcelRead">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ExcelRead@1f554b06]" name="setup" is-config="true" duration-ms="2228" started-at="2021-02-23T06:20:17 UTC" finished-at="2021-02-23T06:20:19 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:test.ExcelRead@1f554b06]" name="testcase1" duration-ms="2983" started-at="2021-02-23T06:20:19 UTC" finished-at="2021-02-23T06:20:22 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- test.ExcelRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
